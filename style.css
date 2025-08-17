@@ -1,0 +1,31 @@
+*{
+  background-color: black;
+  font-size: 24px;
+  font-family: arial;
+}
+.operator{
+  height: 60px;
+  width: 60px;
+  border-radius:50%;
+  border: none;
+  background-color: orange;
+  color: white;
+}
+.num{
+  height: 60px;
+  width: 60px;
+  border-radius:50%;
+  border: none;
+  background-color: rgb(74, 74, 74);
+  color: white;
+}
+.clear{
+  font-size: 18px;
+}
+.js-calculate{
+  color: white;
+  font-size:50px;
+  margin: 0px;
+  margin-top: 15px;
+  
+}
